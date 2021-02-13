@@ -44,7 +44,7 @@
                 <field
                     id="color"
                     translate="label"
-                    type="text"
+                    type="hidden"
                     sortOrder="2"
                     showInDefault="1"
                     showInWebsite="1"
